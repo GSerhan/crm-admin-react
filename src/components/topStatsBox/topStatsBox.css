@@ -1,0 +1,37 @@
+.top-stats {
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.top-stats--title {
+  font-size: 20px;
+}
+
+.top-stats__money {
+  margin-right: 20px;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.top-stats--footer {
+  font-size: 15px;
+  color: gray;
+}
+
+.top-stats--money {
+  font-size: 30px;
+}
+
+.top-stats__change {
+  font-size: 14px;
+}
+
+.top-stats .green {
+  color: green;
+}
+
+.top-stats .red {
+  color: red;
+}

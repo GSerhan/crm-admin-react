@@ -1,0 +1,13 @@
+.dashboard__top-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 40px;
+}
+
+.dashboard__widgets {
+  display: grid;
+  grid-template-columns: 38% 60%;
+  grid-gap: 20px;
+  max-height: 550px;
+  margin-bottom: 20px;
+}
